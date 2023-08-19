@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "519110917048",
+    "firebase_url": "https://reshop-a42f1-default-rtdb.firebaseio.com",
+    "project_id": "reshop-a42f1",
+    "storage_bucket": "reshop-a42f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519110917048:android:4faed2dacfbf4e7b5bed4d",
+        "android_client_info": {
+          "package_name": "com.example.reshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519110917048-eghjanpp1ao4hsf8emn59n5q6p8uil9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reshop",
+            "certificate_hash": "3afed190fb7c7e8387cce3ba3898b924e856ac45"
+          }
+        },
+        {
+          "client_id": "519110917048-ne1ut4gpdnttjjum13v86fs0ild81hic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6PUwz2SGMQXHbRsvZV5zTyiIssqKXEJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519110917048-ne1ut4gpdnttjjum13v86fs0ild81hic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "519110917048-11vbipvp89b4i0hmu1lleugf54k926cu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.reshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519110917048:android:0097c99bb51f74935bed4d",
+        "android_client_info": {
+          "package_name": "com.example.responsivedashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519110917048-ne1ut4gpdnttjjum13v86fs0ild81hic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6PUwz2SGMQXHbRsvZV5zTyiIssqKXEJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519110917048-ne1ut4gpdnttjjum13v86fs0ild81hic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "519110917048-11vbipvp89b4i0hmu1lleugf54k926cu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.reshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
